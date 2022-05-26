@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1410216576 source:e:\ejemplos\ipoo\alcancia\main.cpp
+	<iostream>
+	<alcancia.h>
+	<menu.h>
+
+1410216576 source:e:\ejemplos\ipoo\alcancia\src\alcancia.cpp
+	"Alcancia.h"
+
+1410216655 e:\ejemplos\ipoo\alcancia\include\alcancia.h
+
+1410216736 source:e:\ejemplos\ipoo\alcancia\src\menu.cpp
+	"Menu.h"
+
+1410217320 e:\ejemplos\ipoo\alcancia\include\menu.h
+	<iostream>
+	<alcancia.h>
+
